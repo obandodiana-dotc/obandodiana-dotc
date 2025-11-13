@@ -304,6 +304,50 @@ mindmap
 
 <div align="center">
 
+<table>
+<tr>
+<td align="center">
+
+### 👩‍💻 Diana Obando
+**📍 Location:** Munich, Germany 🇩🇪  
+**📋 Status:** Chancenkarte - Available Immediately
+
+</td>
+</tr>
+</table>
+
+### 🎯 Current Focus Areas
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 📊 Data & Analytics
+- Advanced Python & Data Analytics
+- AI for Supply Chain Optimization
+- Process Automation with RPA
+
+</td>
+<td width="50%" valign="top">
+
+#### 🚀 Professional Growth
+- German Language (A1 → B1)
+- Building Full-Stack Portfolio
+- Supply Chain Tech Innovation
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+> ### 💬 *"Let's optimize supply chains with data & tech!"* 🚀
+
+<br/>
+
+<details>
+<summary>📝 <i>View as Python Code</i></summary>
+
 ```python
 class DianaObando:
     def __init__(self):
@@ -323,6 +367,8 @@ class DianaObando:
 me = DianaObando()
 me.say_hi()
 ```
+
+</details>
 
 </div>
 
@@ -370,4 +416,4 @@ me.say_hi()
 ---
 
 <!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
