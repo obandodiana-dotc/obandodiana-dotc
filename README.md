@@ -145,4 +145,4 @@ AI Customs Prototype	Early AI-based compliance automation
 </p>
 📊 GitHub Stats
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=obandodiana-dotc&show_icons=true&theme=tokyonight&hide_border=true" width="55%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obandodiana-dotc&layout=compact&theme=tokyonight&hide_border=true" width="40%"/> </div>
-<p align="center"> ✨ <i>"Precision. Clarity. Digital Intelligence — this is the new Supply Chain."</i> ✨ </p> ```
+<p align="center"> ✨ <i>"Precision. Clarity. Digital Intelligence — this is the new Supply Chain."</i> ✨ 
