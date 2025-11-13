@@ -1,135 +1,163 @@
-<!-- ====================================================== --> <!-- 🔥 ANIMATED BANNER — GITHUB COMPATIBLE --> <!-- ====================================================== --> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&pause=1500&color=00D9FF&center=true&vCenter=true&width=900&lines=Diana+Obando+Marchena;Supply+Chain+%26+Business+Operations+Specialist;Customs+Compliance+Expert;Data+Analytics+%26+AI+Learner;Based+in+Munich%2C+Germany+🇩🇪" /> </p>
-🌐 Multilingual Profile — DE / EN
-🇩🇪 Deutsch
-👋 Hallo! Ich bin Diana Obando Marchena
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&pause=1200&color=00C8FF&center=true&vCenter=true&width=900&lines=Diana+Obando+Marchena;Supply+Chain+%7C+Business+Operations;Customs+Compliance+%7C+Process+Optimization;Data+Analytics+%7C+AI+Learner;Munich%2C+Germany+🇩🇪" />
+</p>
 
-Ich bin eine Supply Chain & Business Operations Spezialistin mit Schwerpunkt auf:
-Zoll-Compliance, End-to-End Logistik, Audit-Bereitschaft, ERP-Systeme und Prozessoptimierung.
+---
 
-Mit über 5 Jahren Erfahrung in Unternehmen wie:
+# 🌐 **Multilingual Profile — DE / EN**
 
-DHL Global Forwarding
+---
 
-Expeditors International
+## 🇩🇪 **Deutsch**
 
-Banco Popular (Costa Rica)
+### 👋 Hallo! Ich bin **Diana Obando Marchena**
 
-baue ich aktuell meine Fähigkeiten in Python, Datenanalyse, HTML/CSS und KI für die Digitalisierung der Lieferkette aus.
+Ich bin eine Spezialistin für:
 
-⭐ Stärken (DE)
+- **Supply Chain**
+- **Business Operations**
+- **Zoll-Compliance**
+- **Prozessoptimierung**
+- **Audit-Bereitschaft**
+- **ERP-Systeme**
 
-🛃 0% Fehlerquote in kritischen Compliance-Prozessen
+Mit über **5 Jahren Erfahrung** in internationalen Unternehmen (DHL, Expeditors, Banco Popular).
 
-🚀 25% schnellere Bearbeitungszeiten durch Workflow-Redesign
+#### ⭐ Stärken
 
-📦 ERP-Erfahrung: SAP WM, Oracle, WMS, Merlin
+- 🛃 **0% Fehlerquote** in Zoll- und Compliance-Prozessen  
+- 🚀 **25% schnellere Abläufe** durch Workflow-Redesign  
+- 📦 **SAP WM, Oracle, WMS, Merlin**  
+- 📊 Datenanalyse: **Python, Pandas, Excel Advanced**  
+- 🤝 Erfahrung im regulierten B2B-Umfeld  
 
-📊 Datengetriebenes Arbeiten (Python, Pandas, Excel Advanced)
+---
 
-🤝 Erfahrung in regulierten B2B-Umfeldern und Audit-Situationen
+## 🇬🇧 **English**
 
-🇬🇧 English
-👋 Hi! I'm Diana Obando Marchena
+### 👋 Hi! I'm **Diana Obando Marchena**
 
-I’m a Supply Chain & Business Operations Specialist focused on:
-Customs Compliance, E2E Logistics, Process Optimization, ERP Systems, and Audit-Ready Operations.
+A specialist in:
 
-With 5+ years of experience at:
+- **Supply Chain**
+- **Business Operations**
+- **Customs Compliance**
+- **E2E Logistics**
+- **Process Optimization**
+- **Audit-Ready Operations**
 
-DHL Global Forwarding
+With **5+ years of experience** across DHL, Expeditors, and Banco Popular.
 
-Expeditors International
+#### ⭐ Strengths
 
-Banco Popular (Costa Rica)
+- 🛃 **0% compliance errors**  
+- 🚀 **25% faster workflows**  
+- 📦 ERP: **SAP WM, Oracle, WMS, Merlin**  
+- 📊 Analytics: **Python, Pandas, Excel Advanced**  
+- 🤝 Strong B2B and audit background  
 
-I am currently expanding my skills in Python, Data Analytics, HTML/CSS and AI for Supply Chain Digitalization.
+---
 
-⭐ Strengths (EN)
+# 🛠️ **Tech Stack**
 
-🛃 Maintained 0% compliance errors in critical processes
+### **Logistics & Compliance**
+- SAP WM  
+- Oracle  
+- WMS  
+- Merlin Zoll-System  
 
-🚀 Achieved 25% faster workflows via process redesign
+### **Data & Development**
+- Python  
+- Pandas  
+- HTML  
+- CSS  
+- Excel Advanced  
 
-📦 Strong ERP background: SAP WM, Oracle, WMS, Merlin
+### **Methods**
+- Lean  
+- Agile  
+- Scrum  
 
-📊 Analytical mindset (Python, Pandas, Excel Advanced)
+---
 
-🤝 Solid B2B and audit experience in regulated environments
+# 🧭 **Career Overview**
 
-🛠️ Tech Stack & Tools
-<div align="center">
-🧭 Logistics & Compliance
-<img src="https://img.shields.io/badge/SAP_WM-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" /> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" /> <img src="https://img.shields.io/badge/Merlin_Zoll_System-005BBB?style=for-the-badge" /> <img src="https://img.shields.io/badge/WMS-6C63FF?style=for-the-badge" />
-💻 Data & Development
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black" /> <img src="https://img.shields.io/badge/Pandas-130654?style=for-the-badge&logo=pandas" /> <img src="https://img.shields.io/badge/Excel_Advanced-217346?style=for-the-badge&logo=microsoft-excel" /> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5" /> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3" />
-🎯 Methods
-<img src="https://img.shields.io/badge/Lean-000000?style=for-the-badge" /> <img src="https://img.shields.io/badge/Agile-2496ED?style=for-the-badge" /> <img src="https://img.shields.io/badge/Scrum-FF6F00?style=for-the-badge" /> </div>
-📌 Career Overview / Karriereüberblick
-Zeitraum	Rolle	Unternehmen	Land
-2019	Praktikantin Importlogistik & Zoll	DHL Global Forwarding	Costa Rica
-2020–2021	Lager- & Bestandskontrolle	DHL Global Forwarding	Costa Rica
-2021	Key Account Operations (Export)	Expeditors International	Costa Rica
-2021–2025	Business Operations Specialist	Banco Popular	Costa Rica
-2025	Coding, Data & Design (Weiterbildung)	ReDI School Munich	Deutschland
-💼 Featured Achievements (DE / EN)
-🇩🇪 Deutsch
+| Zeitraum / Period | Rolle / Role | Unternehmen / Company | Land |
+|-------------------|--------------|------------------------|------|
+| 2019              | Import & Customs Intern | DHL Global Forwarding | Costa Rica |
+| 2020–2021         | Inventory & Warehouse Control | DHL Global Forwarding | Costa Rica |
+| 2021              | Key Account Operations (Export) | Expeditors | Costa Rica |
+| 2021–2025         | Business Operations Specialist | Banco Popular | Costa Rica |
+| 2025              | Coding / Data / Design | ReDI School Munich | Germany |
 
-🛡️ 0% Fehlerquote in Compliance & kritischen Dokumentationsprozessen
+---
 
-⏱️ 25% schnellere Abläufe durch Neugestaltung standardisierter Workflows
+# 💼 **Achievements**
 
-🚚 >98% Liefertreue in sensiblen Export-Lieferketten
+### 🇩🇪 Deutsch
+- 🛡️ **0% Fehlerquote** in Compliance  
+- ⏱️ **25% kürzere Prozesszeiten**  
+- 🚚 **98%+ Liefertreue**  
+- 📦 Verwaltung von **1.500+ SKUs**  
+- 📊 **100% pünktliche Berichterstattung**  
 
-📦 Verwaltung von 1.500+ SKUs im Lagerwesen
+### 🇬🇧 English
+- 🛡️ Maintained **0% compliance errors**  
+- ⏱️ **25% process acceleration**  
+- 🚚 **98%+ delivery accuracy**  
+- 📦 Managed **1,500+ SKUs**  
+- 📊 Delivered **100% on-time reports**  
 
-📊 100% pünktliche Lieferung von Berichten für Management & Audits
+---
 
-🇬🇧 English
+# 🌱 **Current Focus**
+- Python & Analytics  
+- AI for Customs & Supply Chain  
+- Automation workflows  
+- German A1 → B1  
+- Building real-world portfolio projects  
 
-🛡️ Maintained 0% compliance errors across critical processes
+---
 
-⏱️ Achieved 25% faster turnaround times via workflow redesign
+# 🌟 **Projects**
 
-🚚 Ensured >98% delivery accuracy in sensitive export chains
+| Project | Description |
+|--------|-------------|
+| Supply Chain KPI Dashboard | Visualization of flow metrics |
+| Compliance Checker (DUA) | Automates customs validations |
+| LATAM Trade Explorer | Regional logistics & trade map |
+| AI Customs Prototype | AI-based compliance testing |
 
-📦 Managed 1,500+ SKUs in warehouse and inventory control
+---
 
-📊 Delivered 100% on-time reports for leadership and audits
+# 🌐 **Languages / Sprachen**
 
-🧪 Current Focus / Aktueller Fokus
+- 🇪🇸 Spanish — Native  
+- 🇬🇧 English — B2  
+- 🇩🇪 German — A1 (learning)  
 
-🐍 Python & Data Analytics
+---
 
-🤖 AI applications in Customs & Supply Chain
+# 📫 **Contact**
 
-⚙️ Automation & Digital Workflows
+**LinkedIn:** https://www.linkedin.com/in/diana-obando-m  
+**GitHub:** https://github.com/obandodiana-dotc  
+**Email:** obando.diana@web.de  
+**Location:** Munich, Germany  
 
-🇩🇪 Deutsch: A1 → B1 (laufend)
+---
 
-📊 Building portfolio projects based on real logistics & compliance scenarios
+# 📊 **GitHub Stats**
 
-🌟 Projects (DE/EN)
-Project	Beschreibung / Description
-Supply Chain KPI Dashboard	Visualizing import/export metrics & operational KPIs
-Compliance Checker (DUA)	Automating customs documentation validation
-LATAM Trade Explorer	Interactive view of regional trade & logistics flows
-AI Customs Prototype	Early experiments combining rules & AI for compliance
-🌐 Languages / Sprachen
+![Stats](https://github-readme-stats.vercel.app/api?username=obandodiana-dotc&show_icons=true&theme=tokyonight&hide_border=true)  
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obandodiana-dotc&layout=compact&theme=tokyonight&hide_border=true)
 
-🇪🇸 Spanisch / Spanish — Muttersprache / Native
+---
 
-🇬🇧 Englisch / English — B2
+<p align="center">
+✨ <i>"Precision. Clarity. Digital Intelligence — this is the new Supply Chain."</i> ✨
+</p>
 
-🇩🇪 Deutsch / German — A1 (lernen / learning)
-
-📫 Contact / Kontakt
-<div align="center">
-
-🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/diana-obando-m">diana-obando-m</a>
-🐙 <strong>GitHub:</strong> <a href="https://github.com/obandodiana-dotc">obandodiana-dotc</a>
-✉️ <strong>Email:</strong> <a href="mailto:obando.diana@web.de">obando.diana@web.de
-</a>
-📍 Munich, Germany
 
 </div>
 📊 GitHub Stats
