@@ -1,74 +1,78 @@
-# 👋 Hallo! I'm Diana Obando Marchena
+## 🌟 Diana Obando Marchena: Digital Supply Chain Architect
 
-## 🎯 Customs & Compliance Specialist | Data Analytics Enthusiast
+[](https://www.google.com/search?q=https://github.com/obandodiana-dotc)
+[](https://www.google.com/search?q=https://github.com/obandodiana-dotc)
 
-Welcome to my GitHub! I'm a **Zoll- und Compliance-Spezialistin** based in **Munich, Germany** 🇩🇪, passionate about optimizing international trade processes through data-driven solutions.
+-----
 
----
+### 🌐 **Architect's Manifesto: From Compliance to Code**
 
-## 🚢 About Me
+> **I transform complex logistics into strategic digital resilience.** As a Compliance and Operations Specialist, my vision moves beyond management. I leverage **Python, AI, and Azure DevOps** to design data architectures that convert operational friction into automated value streams. **My mission: To code and build the resilient Supply Chain of the 21st century.**
 
-- 📦 **5+ years of experience** in customs, import/export operations, and supply chain compliance
-- 🌎 **LATAM expertise**: Deep knowledge of Costa Rican and Central American trade regulations
-- 📊 **Currently learning**: Python for data analysis, process automation, and compliance analytics
-- 🎓 **Education**: Bachelor's in International Business & Trade + ReDI School (Coding, Data & Design)
-- 💼 **Professional background**: DHL Global Forwarding, Expeditors International, Banco Popular CR
+-----
 
----
+### 🚀 **FEATURED PROJECT: Live AI Compliance Assistant Prototype**
 
-## 💻 Tech Stack & Tools
+A demonstration of using AI to safeguard the **0% error rate** I achieved in previous roles. **[ View Demo Here ]** (Link to your Vercel/Netlify deployment)
 
-### **Core Systems**
-![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+-----
 
-### **Currently Learning**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 🛠️ **The Digital Supply Chain Stack**
 
-### **Compliance & Operations**
-- Customs clearance (Import/Export)
-- Risk management & audit preparation
-- Process optimization & KPI analysis
-- ERP systems (SAP, Oracle, WMS, Merlin)
-- Stakeholder management (B2B)
+The technical components bridging operational expertise with vanguard technology.
 
----
+#### **CORE SYSTEMS & ERP MASTERY 📦**
 
-## 🌱 Current Focus
+#### **PYTHON, AI & CLOUD STACK 🐍☁️**
 
-- 📚 **ReDI School of Digital Integration** (Oct-Dec 2025): Data analysis with Python, Design Thinking, prototyping
-- 🔍 Exploring **AI applications** in customs compliance and supply chain optimization
-- 🇩🇪 Intensive German language course (Target: B1 by Q3/2026)
-- 🎯 Building projects that bridge **customs expertise** with **data analytics**
+#### **METHODOLOGY & SOFT SKILLS 💡**
 
----
+-----
 
-## 🚀 Featured Projects
+### **📈 KEY PERFORMANCE INDICATORS (KPIs)**
 
-_Coming soon! I'm currently working on:_
-- 📊 **Customs KPI Dashboard**: Visualizing import/export metrics
-- ✅ **Compliance Checklist Generator**: Automating customs documentation reviews
-- 🌐 **LATAM Trade Data Explorer**: Interactive data visualization for Central American trade flows
+My track record shows measurable results, now leveraged in my code projects.
 
----
+  - **Risk Mitigation:** **0% Error Rate** on critical compliance and audit processes (Banco Popular).
+  - **Process Acceleration:** **25% reduction** in documentation processing times using process optimization.
+  - **Inventory Control:** **10% reduction** in inventory discrepancies (DHL Global Forwarding).
+  - **Delivery Fidelity:** **\>98% on-time delivery** for sensitive Key Accounts (Expeditors International).
 
-## 📫 Let's Connect!
+-----
 
-- 💼 **LinkedIn**: [diana-obando-m](https://www.linkedin.com/in/diana-obando-m)
-- 📧 **Email**: obando.diana@web.de
-- 📍 **Location**: Munich, Germany
-- 🌐 **Languages**: Spanish (native) | English (B2) | German (A1, learning)
+### **🛠️ PROJECT DEVELOPMENT BOARD**
 
----
+Solving real-world supply chain challenges with code.
 
-## 📊 GitHub Stats
+| **PROJECT** | **SOLUTION PILLAR** | **TARGET VALUE** |
+| :--- | :--- | :--- |
+| **Compliance Risk Analyser** | **AI/Python** Script for automated customs documentation validation. | Achieve 100% compliance *before* submission. |
+| **SCM Performance Dashboard** | **Python/HTML** Data Visualization from WMS and SAP data. | Provide real-time operational transparency to stakeholders. |
+| **LATAM Trade Data Explorer** | **Data Visualization** focusing on Central American trade flows. | Support strategic B2B market decision-making. |
 
-![Diana's GitHub stats](https://github-readme-stats.vercel.app/api?username=obandodiana-dotc&show_icons=true&theme=radical)
+-----
 
----
+### **📍 CONNECT & STATUS**
 
-⭐️ _"Bridging international trade expertise with data-driven solutions"_
+I am actively seeking roles in Germany where operational strength meets digital transformation.
+
+| **STATUS** | **LANGUAGES** | **CONNECT** |
+| :--- | :--- | :--- |
+|  |  | 💼 [LinkedIn](https://www.linkedin.com/in/diana-obando-m) |
+| **Availability: Immediate** |  | 📧 [Email](mailto:obando.diana@web.de) |
+| **Location: Munich, DE** |  | 🇩🇪 [Location](https://www.google.com/search?q=https://www.google.com/maps/search/Munich,%2BGermany) |
+
+-----
+
+-----
+
+### 📚 **Education & Certification**
+
+  - **Weiterbildung: Coding, Data und Design** | ReDI School of Digital Integration, Munich (Oct-Dec 2025)
+      - *Focus: Python Data Analysis, Data Visualization, Design Thinking, HTML/CSS*
+  - **Bachelor in Internationaler Wirtschaft und Handel** | Universidad Nacional, Costa Rica
+  - **Zusätzliche Qualifikationen (2024-2025):** Cybersecurity & KI (Autonomous Technological Institute Mexico), Azure DevOps Grundlagen, Scrum Methodologie.
+
+-----
+
+-----
