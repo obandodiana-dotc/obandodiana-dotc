@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Diana%20Obando%20Marchena&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Supply%20Chain%20Engineer%20%7C%20Data%20Analytics%20%7C%20Process%20Optimizer&descAlignY=55&descSize=20" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Diana%20Obando%20Marchena&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Supply%20Chain%20Specialistr%20%7C%20Data%20Analytics%20%7C%20Process%20Optimizer&descAlignY=55&descSize=20" />
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=0%25+Compliance+Errors+%E2%9C%93;25%25+Process+Optimization+%E2%9A%A1;98%25+On-Time+Delivery+%F0%9F%9A%80;192+Import+Operations+%F0%9F%93%A6;Munich%2C+Germany+%F0%9F%87%A9%F0%9F%87%AA" alt="Typing SVG" />
